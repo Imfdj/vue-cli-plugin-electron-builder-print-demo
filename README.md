@@ -1,8 +1,8 @@
 # vue-cli-plugin-electron-builder-print-demo
 
 <h3 align="center">
-    <a href="https://github.com/nklayman/vue-cli-plugin-electron-builder">electron-vue-printer</a> 打印图片插件。简单的demo。
-    <a href="https://github.com/nklayman/vue-cli-plugin-electron-builder">electron-vue-printer</a> print picture plugin. Simple demo。
+    <a href="https://github.com/Imfdj/electron-vue-printer">electron-vue-printer</a> 打印图片插件。简单的demo。
+    <a href="https://github.com/Imfdj/electron-vue-printer">electron-vue-printer</a> print picture plugin. Simple demo。
 </h3>
 <h5 align="center">
     Based on <a href="https://github.com/nklayman/vue-cli-plugin-electron-builder">vue-cli-plugin-electron-builder</a>.
