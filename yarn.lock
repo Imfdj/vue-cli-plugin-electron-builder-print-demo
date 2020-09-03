@@ -3684,10 +3684,10 @@ electron-to-chromium@^1.3.523:
   resolved "https://registry.npm.taobao.org/electron-to-chromium/download/electron-to-chromium-1.3.560.tgz?cache=0&sync_timestamp=1599118516207&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Felectron-to-chromium%2Fdownload%2Felectron-to-chromium-1.3.560.tgz#6c3f61fe50324770b75705300e9f98f29312ea8d"
   integrity sha1-bD9h/lAyR3C3VwUwDp+Y8pMS6o0=
 
-electron-vue-printer@^1.3.2:
-  version "1.3.2"
-  resolved "https://registry.npmjs.org/electron-vue-printer/-/electron-vue-printer-1.3.2.tgz#bbe70aa53f8a706b6c3ba9b292681504e2cf8394"
-  integrity sha512-x70Ptm+qPlb8iLdTNdppHlN1LSeqKe6yTOH3sJNe3vVtC3QmcOx6uusdiXg/dWvCHoNGUpPzw6M2kfRiAXXTMw==
+electron-vue-printer@^1.3.3:
+  version "1.3.3"
+  resolved "https://registry.npmjs.org/electron-vue-printer/-/electron-vue-printer-1.3.3.tgz#dcb50df637fa943b45c08061c0f044cfb271331e"
+  integrity sha512-ga0eNWZ/3mB9MMHBP+msEckgCim4JcvzCJxD7KmfBJTq1KWSRDbm9mSMW+Bz6XUX3vItRS+J0wz/pdtaG6UGFQ==
 
 electron@^7.0.0:
   version "7.3.3"
